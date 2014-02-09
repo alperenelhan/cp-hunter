@@ -7,6 +7,7 @@ Where the hell this class comes from!
 Usage
 =========
 
+```bash
 usage: cp-hunt -c <CLASSNAME> [-d <DIR>] [-h] [-r]
 Available options are:
  -c,--class <CLASSNAME>   Name of the class
@@ -14,3 +15,4 @@ Available options are:
  -h,--help                Shows this menu
  -r,--withRunning         Search in running processes
 Please report issues at https://github.com/alperenelhan/cp-hunter
+```
